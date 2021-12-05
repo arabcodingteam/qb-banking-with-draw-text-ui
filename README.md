@@ -21,6 +21,7 @@
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - For keeping records
+- [cd-drawtextui](https://github.com/dsheedes/cd_drawtextui)
 
 ## Screenshots
 ![Account Home](https://i.imgur.com/XazaYYI.png)
